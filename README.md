@@ -10,7 +10,7 @@ I had to code a classic arcade game based on the game Frogger. The point of the 
 
 2. Try and avoid the cockroaches and try and jump into the water.
 
-3. If you made it in the water, you can play again. If you collided with a cockroach, start againn.
+3. If you made it in the water, you can play again. If you collided with a cockroach, start again.
 
 ## Online Version of Game
 To play the game on github pages go to http://ccobb73.github.io/Udacity-Arcade-Game
